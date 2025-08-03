@@ -193,3 +193,12 @@ h1 {
     color: #3882f6;
     cursor: pointer;
 }
+
+.footer {
+    background-color: #1f2937;
+    display: flex;
+    padding: 2% 7.5%;
+    justify-content: center;
+    color: #f9faf8;
+    font-size: 18px;
+}
