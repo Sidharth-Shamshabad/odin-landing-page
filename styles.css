@@ -120,3 +120,26 @@ h1 {
     margin-top: 1rem;
     width: 200px;
 }
+
+.quote {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5% 7.5%;
+}
+
+.quote__text {
+    font-size: 36px;
+    font-style: italic;
+    width: 50%;
+    color: #1f2937;
+}
+
+.quote__author {
+    font-size: 24px;
+    font-weight: 700;
+    color: #1f2937;
+    margin-top: 1rem;
+    text-align: right;
+}
